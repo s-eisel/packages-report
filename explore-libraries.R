@@ -9,6 +9,7 @@
 identical(.Library, .libPaths()[2])
 
 #this is my change 
+#another comment
 
 ## Huh? Maybe this is an symbolic link issue?
 library(fs)
